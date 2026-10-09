@@ -1,0 +1,5 @@
+# The labs in learning/ need only these. They do not need FinRL's own
+# (early-2023 pinned) dependencies. Tested with numpy 2.5, pandas 3.0, scipy 1.18.
+numpy>=1.24
+pandas>=2.1
+scipy>=1.10
